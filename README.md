@@ -10,7 +10,7 @@
 - 📫 How to reach me **bd.forhad.alam@gmail.com**
 
 - ⚡ Fun fact **Curious!! Let's have a discussion...**
-- All my public repositories are: [[GitHub]([path_to_github_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw2ZTTeNa1RgMSlzmTXP1ZZw&ust=1687875653502000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDmqPuQ4f8CFQAAAAAdAAAAABAE))](https://github.com/shazadulalam/)
+- All my public repositories are: [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/shazadulalam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
