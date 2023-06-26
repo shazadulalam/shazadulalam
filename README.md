@@ -2,17 +2,17 @@
 
 <p align="center">
   <em>
-    This is me <b>Shazad Ul Alam</b>, a <b>Automotive Software Engineer</b> graduate from <a href="https://www.tu-chemnitz.de/index.html.en/"> <b>Technische Universität Chemnitz</b>, Chemnitz, Germany</a>. An aspiring <b>Data Enthusiast,</b>&nbsp; and <b> Artificial Intelligence Enthusiast. Recently I am exploring LLM's</b> 
+    This is me <b>Shazad Ul Alam</b>, a <b>Automotive Software Engineer</b> graduate from <a href="https://www.tu-chemnitz.de/index.html.en/"> <b>Technische Universität Chemnitz</b>, Chemnitz, Germany</a>. An aspiring <b>Data Enthusiast,</b>&nbsp; and <b> Artificial Intelligence Enthusiast. Currently, I am exploring LLM's</b> 
   <br>
 
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast and like to read blogs about new technologies.
-- 🔭 I’m currently working on building a analytics platform using OpenAI.
-- 👯 I’m looking to collaborate with Data Science, data analytics and AI related projects.
-- ⚡ Fun fact: I love Sports, especially Football, Billiard.
+- 🧞 I'm a Tech-Enthusiast and like to read blogs about new technologies.
+- 🔭 I’m currently working on building an analytics platform using OpenAI.
+- 👯 I’m looking to collaborate with Data Science, data analytics, and AI-related projects.
+- ⚡ Fun fact: I love Sports, especially Football, Billiards.
 <br>
 
 ---
