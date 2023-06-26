@@ -10,7 +10,7 @@
 - 📫 How to reach me **bd.forhad.alam@gmail.com**
 
 - ⚡ Fun fact **Curious!! Let's have a discussion...**
-- All my public repositories are: [![GitHub]()<a href="[https://d3js.org](https://github.com/shazadulalam)/"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)](https://github.com/shazadulalam" alt="Github" width="40" height="40"/> </a> 
+- All my public repositories are: <a href="[https://d3js.org](https://github.com/shazadulalam)/"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)](https://github.com/shazadulalam" alt="Github" width="40" height="40"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
