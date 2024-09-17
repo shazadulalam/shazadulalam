@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Shazad Ul Alam</b>, a <b>Automotive Software Engineer</b> graduate from <a href="https://www.tu-chemnitz.de/index.html.en/"> <b>Technische Universität Chemnitz</b>, Chemnitz, Germany</a>. An aspiring <b>Data Enthusiast,</b>&nbsp; and <b> Artificial Intelligence Enthusiast. Currently, I am exploring LLM's</b> 
+    This is me <b>Shazad Ul Alam</b>, a <b>Automotive Software Engineer</b> graduate from <a href="https://www.tu-chemnitz.de/index.html.en/"> <b>Technische Universität Chemnitz</b>, Chemnitz, Germany</a>. An aspiring <b>Data Enthusiast,</b>&nbsp; and <b> Artificial Intelligence Enthusiast</b> , a Data Scientist. Currently, I am exploring LLM's and pursuing <b> Google Cloud Data Engineering </b> Certifications. I Live in Chester, United Kingdom. I am free to work and remain in the UK, I do not need a visa or a sponsorship.
   <br>
 
 </p>
@@ -11,7 +11,7 @@
 
 - 🧞 I'm a Tech-Enthusiast and like to read blogs about new technologies.
 - 🔭 I’m currently working on building an analytics platform using OpenAI.
-- 👯 I’m looking to collaborate with Data Science, data analytics, and AI-related projects.
+- 👯 I want to collaborate with Data Science, data analytics, data engineering, and AI-related projects.
 - ⚡ Fun fact: I love Sports, especially Football, Billiards.
 <br>
 
@@ -32,6 +32,8 @@
 </details>
 <br>
 
+---
+
 <details>
 <summary>
   🌱 Looking forward to learn:
@@ -42,10 +44,11 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-</details>
 <br>
+</details>
 
 
+---
 
 <h4> Connect with me🤝: <h4>
   </hr>
