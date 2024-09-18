@@ -18,19 +18,18 @@
 ---
 
 <details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.djangoproject.com/start/" target="_blank"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fubidreams.fr%2Fen%2Fexpertises%2Fdevelopment%2Four-django-python-expertise-at-your-service&psig=AOvVaw3MEpfS6HIBrdtih6587Mtk&ust=1687876675582000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi2p9-U4f8CFQAAAAAdAAAAABAU"></a></code>
-<code><a href="https://www.databricks.com/" target="_blank"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDatabricks&psig=AOvVaw2tBvvdItO7KzDfgc5O2C8f&ust=1687876866587000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiRsbqV4f8CFQAAAAAdAAAAABAE"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
+  <summary>✨ Tech stack currently using:</summary>
+  <br>
+
+  ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+  [![Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)](https://www.djangoproject.com/start/)
+  ![Databricks](https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg)
+  ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+  ![Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png)
+
 </details>
-<br>
+
 
 ---
 
