@@ -21,30 +21,32 @@
   <summary>✨ Tech stack currently using:</summary>
   <br>
 
-  ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-  [![Django](https://static.djangoproject.com/img/logos/django-logo-positive.png)](https://www.djangoproject.com/start/)
-  ![Databricks](https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg)
-  ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-  ![Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png)
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" height="30">
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" height="30">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="30">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="30">
 
 </details>
+
 
 
 ---
 
 <details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://huggingface.co/" target="_blank"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuggingface.co%2Fbrand&psig=AOvVaw3IeLjKVlwDbEReZ6e-Mi3y&ust=1687876937198000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC9iNyV4f8CFQAAAAAdAAAAABAE"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<br>
+  <summary>🌱 Looking forward to learn:</summary>
+  <br>
+
+  <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/huggingface/optimum/main/docs/source/logo/huggingface_logo.png" alt="Hugging Face" height="30"></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="30"></a>
+  <a href="https://analytics.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" height="30"></a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" height="30"></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="30"></a>
+  <br>
+
 </details>
+
 
 
 ---
