@@ -68,4 +68,7 @@
    <a href="https://github.com/shazadulalam">
     <img align="left" alt="Shazad Ul Alam| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
+  <a href="https://shazad.org">
+  <img align="left" alt="Shazad Ul Alam | Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" />
+  </a>
   <br>
