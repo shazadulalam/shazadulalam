@@ -51,24 +51,44 @@
 
 ---
 
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/shazad-ul-alam/">
-   <img align="left" alt=" Shazad Ul Alam | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:bd.forhad.alam@gmail.com">
-    <img align="left" alt="Shazad Ul Alam | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/shazad_forhad/">
-    <img align="left" alt="Shazad Ul Alam | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/shazad.forhad">
-    <img align="left" alt="Shazad Ul Alam| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/shazadulalam">
-    <img align="left" alt="Shazad Ul Alam| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <a href="https://shazad.org">
-  <img align="left" alt="Shazad Ul Alam | Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" />
-  </a>
-  <br>
+<h4>Connect with me 🤝:</h4>
+<hr />
+
+<a href="https://www.linkedin.com/in/shazad-ul-alam/">
+  <img align="left" alt="Shazad Ul Alam | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+
+<a href="mailto:bd.forhad.alam@gmail.com">
+  <img align="left" alt="Shazad Ul Alam | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+
+<a href="https://www.instagram.com/shazad_forhad/">
+  <img align="left" alt="Shazad Ul Alam | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+
+<a href="https://www.facebook.com/shazad.forhad">
+  <img align="left" alt="Shazad Ul Alam | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+</a>
+
+<a href="https://github.com/shazadulalam">
+  <img align="left" alt="Shazad Ul Alam | GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+
+<!-- Portfolio with custom SVG -->
+<a href="https://shazad.org" align="left" style="margin-left:4px;">
+  <svg width="26" height="26" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#00f5ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#8a2be2;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <circle cx="50" cy="50" r="45" stroke="url(#grad1)" stroke-width="3" fill="none" stroke-dasharray="6,4"/>
+    <circle cx="50" cy="50" r="30" stroke="url(#grad1)" stroke-width="1.5" fill="none" opacity="0.6"/>
+    <text x="50%" y="55%" text-anchor="middle" fill="url(#grad1)" font-size="28" font-family="monospace" dy=".3em">
+      SA
+    </text>
+  </svg>
+</a>
+
+<br />
